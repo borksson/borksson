@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Maxwell Smith! I am a student at BYU majoring in computer science.
+- 👀 I’m interested in softwear develpoment, web development, buisness, and the Spanish language.
+- 🌱 I’m currently learning how to develop applications in Linux systems.
+- 💞️ I’m looking to collaborate on anything! I want to learn.
+- 📫 How to reach me: send me a DM on twitter at @BORKSSON
