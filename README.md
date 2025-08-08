@@ -5,4 +5,4 @@ I have had the opportunity to act as technical founder for several high impact p
 I enjoy making products that have real impact for those who use them, and I have a personal objective to change the world through software. As the world changes with AI at the forefront, I want to be right there exploring the next frontier of software business.
 
 You can reach me at:
-- elcapitan.borkson@gmail.com
+elcapitan.borkson@gmail.com
